@@ -1,0 +1,14 @@
+SimbiosaFish configuration
+
+Design defaults only; quotas are not active yet.
+
+rod-quotas:
+BASIC: 50
+IRON: 75
+DIAMOND: 100
+EMERALD: 150
+MYTHIC: 200
+
+require-evenmorefish-bait: true
+disable-custom-rod-durability-loss: true
+remove-custom-rod-at-zero: true
