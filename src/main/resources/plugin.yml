@@ -1,0 +1,6 @@
+name: SimbiosaFish
+version: '0.1.0'
+main: id.simbiosa.fish.SimbiosaFishPlugin
+api-version: '1.21'
+description: Simbiosa fishing add-on
+author: Simbiosa
